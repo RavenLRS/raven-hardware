@@ -2,6 +2,8 @@
 
 The Files Provided are for your own use. 
 
+The MicroRX_RFM uses a 4 layer PCB. 
+
 This Readme is a work in Progress.....
 
 
