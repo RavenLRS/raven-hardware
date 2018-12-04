@@ -17,7 +17,7 @@ The group number is: 197154623
 What things you need to build the AFnano.
 
 *  Temperature regulating Soldering station
-*  Experence in SMD soldering 0602,ipex
+*  Experence in SMD soldering 0603,ipex
 *  Experence in Stamp Hole module soldering(RFM95)
 *  Good quality solder paste
 *  433Mhz/915Mhz antenna
