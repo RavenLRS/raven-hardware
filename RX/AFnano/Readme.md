@@ -1,10 +1,10 @@
-#AFnano
+# AFnano
 
 The Files Provided are for your own use.
 
 The AFnano uss a 2 layers PCB
 
-##Getting Started
+## Getting Started
 
 I can be contacted on the Raven Slack or Telegram channels.
 My user name: DusKing
@@ -12,7 +12,7 @@ My user name: DusKing
 Also, you can contact us throught Tecent QQ.
 The group number is: 197154623
 
-###Prerequisites
+### Prerequisites
 
 What things you need to build the AFnano.
 
