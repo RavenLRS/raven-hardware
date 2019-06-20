@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Raven)(type Legacy)(uri ${KIPRJMOD}/../Raven.lib)(options "")(descr ""))
+  (lib (name CDEBYTE)(type Legacy)(uri ${KIPRJMOD}/../CDEBYTE.lib)(options "")(descr ""))
+  (lib (name ESP32-footprints-Shem-Lib)(type Legacy)(uri ${KIPRJMOD}/../ESP32-footprints-Shem-Lib.lib)(options "")(descr ""))
+)

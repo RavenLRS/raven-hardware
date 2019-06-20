@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP K1-5203UA-0X
+D Korean Hroparts Elec K1-5203UA-0X, rotate 45 CW on PCB
+K 5way,tactile,switch
+$ENDCMP
+#
+$CMP LED_RGBA
+D LED RGB, common anode
+K led rgb diode
+F ~
+$ENDCMP
+#
+$CMP MATEK_MBEC6S
+D Matek MBEC6S
+F http://www.mateksys.com/?portfolio=mbec6s
+$ENDCMP
+#
+#End Doc Library
